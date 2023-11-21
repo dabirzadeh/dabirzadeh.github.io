@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+@font-face {
+  font-family: 'Vazir Light';
+  src: url('../fonts/vazir-farsi-digits/vazir-light-fd.woff2') format('woff2'),
+    url('../fonts/vazir-farsi-digits/vazir-light-fd.woff') format('woff'),
+    url('../fonts/vazir-farsi-digits/vazir-light-fd.ttf') format('truetype'),
+    url('../fonts/vazir-farsi-digits/vazir-light-fd.eot') format('embedded-opentype'),
+    url('../fonts/vazir-farsi-digits/vazir-light-fd.eot?#iefix') format('embedded-opentype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('../fonts/vazir-farsi-digits/vazir-fd.woff2') format('woff2'),
+    url('../fonts/vazir-farsi-digits/vazir-fd.woff') format('woff'),
+    url('../fonts/vazir-farsi-digits/vazir-fd.ttf') format('truetype'),
+    url('../fonts/vazir-farsi-digits/vazir-fd.eot') format('embedded-opentype'),
+    url('../fonts/vazir-farsi-digits/vazir-fd.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Vazir Bold';
+  src: url('../fonts/vazir-farsi-digits/vazir-bold-fd.woff2') format('woff2'),
+    url('../fonts/vazir-farsi-digits/vazir-bold-fd.woff') format('woff'),
+    url('../fonts/vazir-farsi-digits/vazir-bold-fd.ttf') format('truetype'),
+    url('../fonts/vazir-farsi-digits/vazir-bold-fd.eot') format('embedded-opentype'),
+    url('../fonts/vazir-farsi-digits/vazir-bold-fd.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
