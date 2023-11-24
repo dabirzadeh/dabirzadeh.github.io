@@ -55,3 +55,17 @@ body {
   background: url("../images/digital-world-map.jpg") no-repeat fixed center / cover;
   color: #BBE1FA;
 }
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #3282B8;
+  text-decoration: none;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
